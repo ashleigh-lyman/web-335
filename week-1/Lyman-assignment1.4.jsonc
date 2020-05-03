@@ -1,0 +1,24 @@
+/*
+============================================
+; Title: Assignment 1.4
+; Author: Ashleigh Lyman
+; Date: 05/03/2020
+; Description: NoSQL Data Structures
+;===========================================
+*/
+
+{
+    "user": {
+      "birthday": "07/24/1992",
+      "roles": [
+        "Mother",
+        "Wife",
+        "Student"
+      ],
+      "dependents": [
+        "Aiden",
+        "Henry",
+        "Marshall"
+      ]
+    }
+  }
