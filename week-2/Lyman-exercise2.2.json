@@ -1,0 +1,53 @@
+/*
+============================================
+; Title:  Assignment 2.2
+; Author: Ashleigh Lyman
+; Date:   10 May 2020
+; Modified By: Ashleigh Lyman
+; Description: Data Structure Customer 2.2
+;===========================================
+*/
+
+{
+    "Customer": {
+        "_id": 1,
+        "first_name": "Ashleigh",
+        "last_name": "Lyman",
+        "date_of_birth": "1992-07-24",
+        "user_name": "ashleighlyman1",
+        "Invoice": [{
+            "_id": 100,
+            "date_created": "2020-05-10",
+            "date_shipped": "2020-05-10",
+            "line_item_fields": [{
+                "_id": 110,
+                "name": "Spoon",
+                "price": 2.00,
+                "quantity": 4
+            }, {
+                "_id": 111,
+                "name": "Fork",
+                "price": 2.00,
+                "quantity": 4
+            }]
+        }, {
+            "_id": 200,
+            "date_created": "2020-05-10",
+            "date_shipped": "2020-05-10",
+            "line_item_fields": [{
+                "_id": 210,
+                "name": "Knife",
+                "price": 4.00,
+                "quantity": 2
+            }, {
+                "_id": 211,
+                "name": "Serving Spoon",
+                "price": 8.00,
+                "quantity": 1
+            }],
+            "subtotal": 32.00,
+            "tax": 5.50,
+            "total": 176.00
+        }]
+    }
+}

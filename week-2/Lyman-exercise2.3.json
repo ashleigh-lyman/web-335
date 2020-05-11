@@ -1,0 +1,38 @@
+/*
+============================================
+; Title:  Assignment 2.3
+; Author: Ashleigh Lyman
+; Date:   10 May 2020
+; Modified By: Ashleigh Lyman
+; Description: Data Structure Customer 2.3
+;===========================================
+*/
+
+
+{
+    "Class": {
+        "_id": 100,
+        "name": "Computer",
+        "Enroll": [{
+                "_id": 200,
+                "Student": {
+                    "_id": 200,
+                    "first_name": "Ashleigh",
+                    "last_name": "Lyman",
+                    "mi": "J"
+                },
+                "grade": "A+"
+            },
+            {
+                "_id": 201,
+                "Student": {
+                    "_id": 201,
+                    "first_name": "Joshua",
+                    "last_name": "Lyman",
+                    "mi": "M"
+                },
+                "grade": "B"
+            }
+        ]
+    }
+}
