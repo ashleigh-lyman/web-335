@@ -1,0 +1,36 @@
+{
+    "user": [{
+            "user_id": 100,
+            "name": "Ashleigh Lyman",
+            "link_user_role": {
+                "user_role_id": "1001",
+                "role": {
+                    "role_id": "a",
+                    "role_title": "Manager",
+                    "link_role_permission": {
+                        "role_permission_id": "1"
+                    }
+                }
+
+            }
+        },
+        {
+            "user_id": 200,
+            "name": "Joshua Lyman",
+            "link_user_role": [{
+                    "user_role_id": "2001",
+                    "role": {
+                        "role_id": "b",
+                        "role_title": "Assistant",
+                        "link_role_permission": {
+                            "role_permission_id": "2"
+                        }
+                    }
+                }
+
+
+
+            ]
+        }
+    ]
+}

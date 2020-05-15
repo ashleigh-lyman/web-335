@@ -1,0 +1,21 @@
+{
+    "publisher": {
+        "publisher_name": "John Smith",
+        "publisher_code": "1234",
+        "publisher_address": "Lincoln, NE",
+        "book": [{
+                "book_isbn": "1234-56-789",
+                "book_name": "My Book",
+                "book_price": 24.99,
+                "author": {
+                    "author_first_name": "Ashleigh",
+                    "author_last_name": "Lyman",
+                    "author_phone": "012-345-6789",
+                    "author_email": "ashleighlyman@gmail.com"
+                }
+            }
+
+        ]
+    }
+
+}
