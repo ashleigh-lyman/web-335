@@ -1,3 +1,13 @@
+
+#============================================
+# Title:  Assignment 9.2 - query through python
+# Author: Ashleigh Lyman
+# Date:   22 June 2020
+# Description: Exercise 9.2 - Python query on mongodb
+#===========================================
+
+
+
 from pymongo import MongoClient
 
 import pprint
