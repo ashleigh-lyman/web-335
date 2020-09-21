@@ -1,13 +1,3 @@
-/*
-============================================
-; Title:  Assignment 2.2
-; Author: Ashleigh Lyman
-; Date:   10 May 2020
-; Modified By: Ashleigh Lyman
-; Description: Data Structure Customer 2.2
-;===========================================
-*/
-
 {
     "Customer": {
         "_id": 1,
